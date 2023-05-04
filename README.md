@@ -38,6 +38,7 @@ Prints similar to:
   "emulators": [
     "qemu-aarch64",
     "qemu-arm",
+    "qemu-arm64v8",
     "qemu-i386",
     "qemu-ppc64le",
     "qemu-riscv64",
